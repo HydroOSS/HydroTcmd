@@ -1,0 +1,9 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs"
+  },
+  "include": ["src", "package.json"],
+  "exclude": ["node_modules"]
+}
